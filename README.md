@@ -89,7 +89,5 @@ For more details on the libraries used:
 - **Pandas:** [https://pandas.pydata.org/](https://pandas.pydata.org/)
 - **Matplotlib:** [https://matplotlib.org/](https://matplotlib.org/)
 
-Ensure you have a stable internet connection when running the script, as it fetches data from an online source.
-
 By following the above instructions, you should be able to set up the environment, install necessary dependencies, and run the script to fetch and visualize snow depth data for your specified location.
 ```
