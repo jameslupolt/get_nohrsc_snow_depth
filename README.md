@@ -59,13 +59,13 @@ The script accepts several command-line arguments to customize its behavior:
 **Syntax:**
 
 ```bash
-python script_name.py --city CITY_NAME --county COUNTY_NAME --years NUMBER_OF_YEARS --month MONTH --day DAY --output OUTPUT_FILE --plot_dir PLOT_DIRECTORY
+python get_nohrsc_snow_depth.py --city CITY_NAME --county COUNTY_NAME --years NUMBER_OF_YEARS --month MONTH --day DAY --output OUTPUT_FILE --plot_dir PLOT_DIRECTORY
 ```
 
 **Example:**
 
 ```bash
-python script_name.py --city "Escalante" --county "Garfield" --years 6 --month 2 --day 28 --output "snow_depth_data.csv" --plot_dir "station_plots"
+python get_nohrsc_snow_depth.py --city "Escalante" --county "Garfield" --years 6 --month 2 --day 28 --output "snow_depth_data.csv" --plot_dir "station_plots"
 ```
 
 This command will:
